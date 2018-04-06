@@ -73,7 +73,7 @@
   "dependencies": {
     "eskimoblood/elm-color-extra": "5.0.0 <= v < 6.0.0",
     "elm-community/maybe-extra": "4.0.0 <= v < 5.0.0",
-    "elm-community/list-extra": "5.0.1 <= v < 6.0.0",
+    "elm-community/list-extra": "5.0.1 <= v < 8.0.0",
     "coreytrampe/elm-vendor": "2.0.3 <= v < 3.0.0",
     "rluiten/elm-date-extra": "8.5.1 <= v < 9.0.0",
     "elm-lang/virtual-dom": "2.0.4 <= v < 3.0.0",
